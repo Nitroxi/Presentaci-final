@@ -22,7 +22,7 @@
 2. Enllaços ràpids als repositoris
 3. Anàlisi de projectes
 4. Metodologia de treball (Kanban · Gantt · GitHub)
-5. Conclusions i aprenentatges
+
 
 ---
 
@@ -99,8 +99,7 @@ Consultoria de digitalització d'una PIME local. En grup amb Marc Melendo i Biel
 
 **GitHub com a seguiment:** commits = diari del progrés · carpetes Tasca/Producte = control de l'estat · README de cada tasca = evidència.
 
-### 🎬 Exemple real
-Al **Projecte 03**, el servidor DNS no resolia: `dnsmasq` ocupava el port 53. Vaig moure la tasca a "Bloquejada" al Kanban, vaig investigar amb `sudo lsof -i :53`, aturar el servei en conflicte i reprendre la configuració. Els commits d'aquell dia ho documenten.
+
 
 ---
 
